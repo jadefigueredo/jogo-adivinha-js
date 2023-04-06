@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:#eaeef1;
+    background-color: #4682B4;
+}
+
+h1{
+    font-weight: 200;
+    font-size: 50px;
+}
+
+p{
+    font-size: 18px;
+}
+
+.enter{
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    border-color: #eaeef1;
+    font-weight: 200;
+    color: white;
+    background-color: green;
+}
